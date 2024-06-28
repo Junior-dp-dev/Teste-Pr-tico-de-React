@@ -1,6 +1,7 @@
 import React from "react";
 import { FaSearch } from "react-icons/fa";
 
+//Componente criado para facilitar seu uso, em outros dois componentes, para responsividade Menu e Header
 function SearchBar() {
   return (
     <>

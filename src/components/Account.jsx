@@ -1,12 +1,13 @@
 import React from "react";
-import { FiShoppingBag } from "react-icons/fi";
+import { MdOutlineAccountCircle } from "react-icons/md";
 
+//Componente criado para facilitar seu uso, em outros dois componentes, para responsividade Navbar e ShopBar
 function Account() {
   return (
-    <button className="flex  items-center gap-3">
-      <p className="hidden md:flex">MINHA CONTA</p>
-      <FiShoppingBag className="text-3xl" />
-    </button>
+    <div className="flex  items-center gap-1">
+      <MdOutlineAccountCircle className="text-3xl" />
+      <p>MINHA CONTA</p>
+    </div>
   );
 }
 

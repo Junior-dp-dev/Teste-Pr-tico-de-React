@@ -1,6 +1,8 @@
 import React from "react";
 import logo from "../img/osure.png";
 
+//Componente criado para facilitar seu uso, em outros dois componentes, para responsividade Navbar e Header
+
 function Logo() {
   return (
     <button>
