@@ -11,4 +11,4 @@ Este projeto consiste em um componente de menu em React que renderiza categorias
 
 ## Estrutura do Projeto
 
-O projeto foi criado no VS Code e Vite, sendo estilizado com Tailwind CSS para facilitar o desenvolvimento e manutenção do estilo. Os principais componentes estão organizados de forma clara e modular para promover a reutilização e a fácil manutenção do código.
+O projeto foi criado com o VS Code e Vite, sendo estilizado com Tailwind CSS para facilitar o desenvolvimento e manutenção do estilo. Os principais componentes estão organizados de forma clara e modular para promover a reutilização e a fácil manutenção do código.
