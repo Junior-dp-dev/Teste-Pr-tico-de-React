@@ -1,0 +1,75 @@
+[
+  {
+    "name": "CAMA E BANHO",
+    "subcategories": [
+      {
+        "name": "Tapetes"
+      },
+      {
+        "name": "Colchão"
+      }
+    ]
+  },
+  {
+    "name": "CALÇADOS",
+    "subcategories": [
+      {
+        "title": "MASCULINO",
+        "subcategories": [
+          {
+            "name": "Tênis"
+          },
+          {
+            "name": "Botas"
+          }
+        ]
+      },
+      {
+        "title": "FEMININO",
+        "subcategories": [
+          {
+            "name": "Tênis"
+          },
+          {
+            "name": "Sandália"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ROUPAS",
+    "subcategories": [
+      {
+        "title": "MASCULINO",
+        "subcategories": [
+          {
+            "name": "Camisas"
+          },
+          {
+            "name": "Calças"
+          }
+        ]
+      },
+      {
+        "title": "FEMININO",
+        "subcategories": [
+          {
+            "name": "Vestidos"
+          },
+          {
+            "name": "Calças"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MODA PRAIA",
+    "subcategories": [
+      {
+        "name": "Cangas"
+      }
+    ]
+  }
+]
