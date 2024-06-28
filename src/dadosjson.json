@@ -1,63 +1,63 @@
 [
   {
-    "name": "cama e banho",
+    "categoria": "cama e banho",
     "submenu": false,
-    "sublinks": [
+    "subcategorias": [
       {
-        "Head": "tapetes",
-        "sublink": []
+        "nome": "tapetes",
+        "subcategoria": []
       },
       {
-        "Head": "colchas",
-        "sublink": []
+        "nome": "colchas",
+        "subcategoria": []
       },
       {
-        "Head": "edredons",
-        "sublink": []
+        "nome": "edredons",
+        "subcategoria": []
       },
       {
-        "Head": "toalhas",
-        "sublink": []
+        "nome": "toalhas",
+        "subcategoria": []
       }
     ]
   },
   {
-    "name": "calçados",
+    "categoria": "calçados",
     "submenu": true,
-    "sublinks": [
+    "subcategorias": [
       {
-        "Head": "homens",
-        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }]
+        "nome": "homens",
+        "subcategoria": [{ "nome": "Tênis" }, { "nome": "Botas" }, { "nome": "chinelos" }, { "nome": "sandálias" }]
       },
       {
-        "Head": "mulheres",
-        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }, { "name": "sapatilhas" }]
+        "nome": "mulheres",
+        "subcategoria": [{ "nome": "Tênis" }, { "nome": "Botas" }, { "nome": "chinelos" }, { "nome": "sandálias" }, { "nome": "sapatilhas" }]
       },
       {
-        "Head": "infantil",
-        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }, { "name": "sapatilhas" }, { "name": "crocs" }]
+        "nome": "infantil",
+        "subcategoria": [{ "nome": "Tênis" }, { "nome": "Botas" }, { "nome": "chinelos" }, { "nome": "sandálias" }, { "nome": "sapatilhas" }, { "nome": "crocs" }]
       }
     ]
   },
   {
-    "name": "moda praia",
+    "categoria": "moda praia",
     "submenu": false,
-    "sublinks": [
+    "subcategorias": [
       {
-        "Head": "cangas",
-        "sublink": []
+        "nome": "cangas",
+        "subcategoria": []
       },
       {
-        "Head": "chapéus",
-        "sublink": []
+        "nome": "chapéus",
+        "subcategoria": []
       },
       {
-        "Head": "bonés",
-        "sublink": []
+        "nome": "bonés",
+        "subcategoria": []
       },
       {
-        "Head": "óculos de sol",
-        "sublink": []
+        "nome": "óculos de sol",
+        "subcategoria": []
       }
     ]
   }

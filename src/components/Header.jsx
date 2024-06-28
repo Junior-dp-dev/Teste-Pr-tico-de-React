@@ -1,7 +1,7 @@
 import React from "react";
-import Logo from "./Logo";
-import SearchBar from "./SearchBar";
-import ShopBar from "./ShopBar";
+import Logo from "./menores/Logo";
+import SearchBar from "./menores/SearchBar";
+import ShopBar from "./menores/ShopBar";
 
 // Cabeçalho da tela usando componentes que serão reutilizados na parte mobile do projeto, no Header é usado em telas grandes
 function Header() {
