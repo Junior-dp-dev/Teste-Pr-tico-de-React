@@ -1,0 +1,64 @@
+[
+  {
+    "name": "cama e banho",
+    "submenu": false,
+    "sublinks": [
+      {
+        "Head": "tapetes",
+        "sublink": []
+      },
+      {
+        "Head": "colchas",
+        "sublink": []
+      },
+      {
+        "Head": "edredons",
+        "sublink": []
+      },
+      {
+        "Head": "toalhas",
+        "sublink": []
+      }
+    ]
+  },
+  {
+    "name": "calçados",
+    "submenu": true,
+    "sublinks": [
+      {
+        "Head": "homens",
+        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }]
+      },
+      {
+        "Head": "mulheres",
+        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }, { "name": "sapatilhas" }]
+      },
+      {
+        "Head": "infantil",
+        "sublink": [{ "name": "Tênis" }, { "name": "Botas" }, { "name": "chinelos" }, { "name": "sandálias" }, { "name": "sapatilhas" }, { "name": "crocs" }]
+      }
+    ]
+  },
+  {
+    "name": "moda praia",
+    "submenu": false,
+    "sublinks": [
+      {
+        "Head": "cangas",
+        "sublink": []
+      },
+      {
+        "Head": "chapéus",
+        "sublink": []
+      },
+      {
+        "Head": "bonés",
+        "sublink": []
+      },
+      {
+        "Head": "óculos de sol",
+        "sublink": []
+      }
+    ]
+  }
+]

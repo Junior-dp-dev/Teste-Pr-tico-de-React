@@ -1,7 +1,7 @@
 [
   {
-    "name": "CAMA E BANHO",
-    "subcategories": [
+    "categoria": "CAMA E BANHO",
+    "subcategorias": [
       {
         "name": "Tapetes"
       },
@@ -11,8 +11,8 @@
     ]
   },
   {
-    "name": "CALÇADOS",
-    "subcategories": [
+    "categoria": "CALÇADOS",
+    "subcategoria": [
       {
         "title": "MASCULINO",
         "subcategories": [

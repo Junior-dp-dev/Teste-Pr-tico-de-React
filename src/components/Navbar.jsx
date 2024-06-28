@@ -37,8 +37,8 @@ function Navbar() {
 
         {/*NavBox*/
         /*Com a verificação do useSate também altero quando o menu deve aparecer em sincronia com o botão de fechar abrir*/}
-        <div className={`md:hidden duration-500 ${open ? "left-0" : "left-[-100%]"} absolute text-white bg-slate-900 inline-block items-center text-2xl font-medium px-4 py-2`}>
-          <div className="bg-white text-black p-2 rounded-full">
+        <div className={`md:hidden duration-500 ${open ? "left-0" : "left-[-100%]"} absolute text-white bg-slate-900 inline-block items-center text-2xl font-medium px-4 py-2 w-80`}>
+          <div className="bg-white text-black p-2 rounded-full cursor-pointer">
             <Account />
           </div>
           <CategoriesLinks />
